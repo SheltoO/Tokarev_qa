@@ -1,4 +1,7 @@
 # Tokarev_qa
+[Пример моего тест-плана](https://docs.google.com/document/d/1z9KyjUeyB0_Yb-yVMCcgXLzUpNGnTEgM7-rTcuGbONg/edit?usp=sharing)
+---
+
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1P0swSX4jOdAVuVQTkbbodXTd-EsAClrdwCUb_muh2qg/edit?usp=sharing)
 
 ---
